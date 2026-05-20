@@ -1,0 +1,23 @@
+{
+  "name": "christoph.io",
+  "version": "1.0.0",
+  "description": "simple game",
+  "homepage": "https://github.com/Christophfeiel/christoph.io#readme",
+  "bugs": {
+    "url": "https://github.com/Christophfeiel/christoph.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christophfeiel/christoph.io.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
